@@ -96,9 +96,9 @@ VRPN based on Apache 2.0 License
  |Version 1.4.3 |2018/12/21 |2ヶ月ぐらい悩みに悩んだライセンス問題、年末にいろいろ激動ありのお祭り騒ぎ！（内容物はほぼ変更なし） Pic_Update|
  
  ## other   
- もし何かアレばIssueに書くか#VRPN_Impoter(旧#VRP_Impoter)ダグつけてつぶやくかDMください  
+ もし何かアレばIssueに書くか#VRPNダグつけてつぶやくかDMください(つよつよわーどはきつい）  
  カンパなど超受け付けてるので良かったら  
- (カンパすると無料プランからアップグレードされてつよつよになります)  
+ (カンパすると管理サーバーが無料プランからアップグレードされてつよつよに、いろんなことに挑戦できるようになります、是非！)  
  Bitcoin : 383btDZurRP14srG1ABtZyo3SeL9nsAbgV  
  kyash :  
  <img src="https://i.imgur.com/J7NMnC5.jpg" alt="Kash" title="Kash">  
