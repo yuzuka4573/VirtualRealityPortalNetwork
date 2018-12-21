@@ -11,9 +11,12 @@ Unityアセットです、VRMをサーバーにアップロードしたりダウ
 ## How to use  
 https://myfirstfb-68d49.firebaseapp.com/src/about.html    
 対応バージョン
-Windows10, Unity2018.2.5+
+Windows10, Unity2018.2.5+  
+  
+ファイルはリリースにおいてあります  
+最新版使ってください  
 
-以下のunitypackageが必要
+以下のunitypackageが必要  
 - UniVRM (Ver0.43 + ) 
 - Firebase Storage / Auth / Database in Firebase Unity SDK 5.2.1 +
   
